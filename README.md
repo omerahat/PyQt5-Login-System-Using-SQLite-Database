@@ -1,17 +1,27 @@
 # PyQt5 Login System using SQLite Database
 This project is a simple PyQt5 application that implements a login system using SQLite database. It allows users to log in and sign up, and provides validation for the input fields.
 
+## Requirements
+
+To run the script, you need to have the following software installed on your computer:
+
+- Python 
+
+- SQLite3
+
+- PyQt5
+
 ## Prerequisites
 Before running the application, you need to install PyQt5 and SQLite3. You can do that by running the following command:
-
+```
 pip install PyQt5 sqlite3
-
+```
 ## Running the Application
 To run the application, you need to execute the main.py file in the terminal or in an IDE of your choice.
 
-
+```
 python main.py
-
+```
 This will launch the GUI application.
 
 ## Usage
