@@ -42,3 +42,6 @@ If you choose to log in, you will be prompted to enter your username and passwor
 [PyQt5 documentation](https://doc.qt.io/qtforpython/)
 
 [SQLite3 documentation](https://www.sqlite.org/docs.html)
+
+## Output
+![image](https://user-images.githubusercontent.com/52050768/226348887-78ec5c28-2251-4daa-8df3-7f52dd147d83.png)
